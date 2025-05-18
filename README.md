@@ -3,7 +3,7 @@
 > A person who is always eager to learn..
 
 ## About Me
-- 🌍 Based in Semarang, Indonesia
+- 🌍 Based in Jakarta Selatan, Indonesia
 - 👨‍💻 Data Engineer & Python Enthusiast
 - 🌱 Continuously learning and exploring new technologies
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kharisamiruddin)
