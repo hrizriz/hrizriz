@@ -1,4 +1,4 @@
-# Hello, I'm Kharis Amiruddin 👋
+# Hello, I'm Kharis👋
 
 > A person who is always eager to learn..
 
