@@ -24,11 +24,26 @@ Python | Data Engineering | Machine Learning | Jupyter Notebook | Data Analysis 
 - [Proyek-Klasifikasi-Gambar](https://github.com/hrizriz/Proyek-Klasifikasi-Gambar) - Image classification project utilizing machine learning techniques.
 - [sklearn-library](https://github.com/hrizriz/sklearn-library) - Implementations and examples using scikit-learn library.
 
-## 📈 GitHub Stats
+### Learning Progress
+- [LEARNING-PROGRES-AS-DE](https://github.com/LEARNING-PROGRES-AS-DE) - Documentation of my learning journey and progress as a Data Engineer.
 
-![Kharis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrizriz&show_icons=true&theme=radical)
+## 💻 Tech Stack & Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrizriz&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 🌱 Current Learning Focus
+
+- Advanced Data Pipeline Orchestration
+- Real-time Data Processing Systems
+- Machine Learning Deployment Strategies
+- Financial Data Analysis and Modeling
 
 ## 🕰️ Coding Time
 - ⏰ Current local time: UTC+07:00 (Jakarta/Indonesia)
@@ -40,4 +55,4 @@ Python | Data Engineering | Machine Learning | Jupyter Notebook | Data Analysis 
 
 ---
 
-*"The only way to do great work is to love what you do."* - Steve Jobs
+*"Dont be yourself. Grow up yourself"*
