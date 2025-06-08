@@ -16,7 +16,7 @@ Python | Data Engineering | Machine Learning | Jupyter Notebook | Data Analysis 
 ## 📊 Projects
 
 ### Data Engineering
-- [stock_idx](https://github.com/hrizriz/stock_idx) - Automated multi-timeframe trading system with technical analysis and Telegram notifications for IDX (Indonesia Stock Exchange).
+- [stock_idx](https://github.com/hrizriz/stock_idx) - Built a Data-Driven Trading Analytics Pipeline for the Indonesian stock market (IDX) (Indonesia Stock Exchange).
 - [mini-project-data-engineer](https://github.com/hrizriz/mini-project-data-engineer) - Collection of data engineering mini-projects.
 
 ### Data Analysis & Machine Learning
