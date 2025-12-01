@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills
 ```
-Python | Data Engineering | Machine Learning | Jupyter Notebook | Data Analysis | SQL
+Python | Data Engineering | Machine Learning | Jupyter Notebook | Data Analysis | SQL | SSH
 ```
 
 ## 📊 Projects
